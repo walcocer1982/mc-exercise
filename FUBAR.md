@@ -1,3 +1,5 @@
+FUBAR
+- Debemos trabajar lo mas antes posible.
 # Elección de la página del grupo Enter
 
 - Mientras tanto Walther pensaba en una nueva página .
