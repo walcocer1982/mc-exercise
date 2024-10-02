@@ -10,3 +10,5 @@ FUBAR
 ## Metas del grupo Enter
 
 - Llegar a presenta un proyecto con los estandares de calidad ISO.
+
+- Esto es sincronizar los cambios realizados 
